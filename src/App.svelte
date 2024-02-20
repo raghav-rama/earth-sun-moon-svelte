@@ -63,7 +63,7 @@
   }
   .moon::before {
     top: 0.8em;
-    right: 1.2em;
+    right: 0.2em;
     width: 1.2em;
     height: 1.2em;
     background-color: silver;
